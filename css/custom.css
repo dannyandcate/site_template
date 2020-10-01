@@ -21,6 +21,7 @@ body {
   font-family: "BioRhyme", serif;
   font-size: 1.15em;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 h1,
