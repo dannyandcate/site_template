@@ -38,6 +38,10 @@ p {
   text-align: justify;
 }
 
+img, iframe {
+  max-width: 85%;
+}
+
 video#bgvid {
   position: fixed;
   top: 50%;
